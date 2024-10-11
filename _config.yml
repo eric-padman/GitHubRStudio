@@ -2,4 +2,4 @@ title: Time Machine theme
 description: Architect is a theme for GitHub Pages.
 show_downloads: false
 google_analytics:
-theme: jekyll-theme-time-machine
+theme: time-machine@v0.2.0
